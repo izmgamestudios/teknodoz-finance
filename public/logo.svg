@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 100 1024 340" role="img" aria-label="TEKNODOZ">
+  <g fill="none" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#318cff">
+      <path d="M8 203H195M45 203V346"/>
+      <path d="M195 203H112V346H195M112 272H190"/>
+      <path d="M228 203V346M300 203L232 272L300 346"/>
+      <path d="M320 203V298M320 203L432 346M432 203V346"/>
+      <circle cx="531" cy="211" r="74"/>
+    </g>
+    <g stroke="#b22efc">
+      <path d="M531 312L462 415M531 312L592 415"/>
+      <path d="M625 203H680A72 72 0 0 1 680 346H625"/>
+      <circle cx="830" cy="275" r="72"/>
+      <path d="M934 203H1018L934 346H1018"/>
+    </g>
+  </g>
+</svg>
